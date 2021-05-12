@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-kk2ut/static/css/main.b5a67bd5.chunk.css",
+    "main.js": "https://.github.io/csb-kk2ut/static/js/main.d7f6629e.chunk.js",
+    "main.js.map": "https://.github.io/csb-kk2ut/static/js/main.d7f6629e.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-kk2ut/static/js/runtime-main.bfa63259.js",
+    "runtime-main.js.map": "https://.github.io/csb-kk2ut/static/js/runtime-main.bfa63259.js.map",
+    "static/css/2.eb77542a.chunk.css": "https://.github.io/csb-kk2ut/static/css/2.eb77542a.chunk.css",
+    "static/js/2.f04e2750.chunk.js": "https://.github.io/csb-kk2ut/static/js/2.f04e2750.chunk.js",
+    "static/js/2.f04e2750.chunk.js.map": "https://.github.io/csb-kk2ut/static/js/2.f04e2750.chunk.js.map",
+    "index.html": "https://.github.io/csb-kk2ut/index.html",
+    "static/css/2.eb77542a.chunk.css.map": "https://.github.io/csb-kk2ut/static/css/2.eb77542a.chunk.css.map",
+    "static/css/main.b5a67bd5.chunk.css.map": "https://.github.io/csb-kk2ut/static/css/main.b5a67bd5.chunk.css.map",
+    "static/js/2.f04e2750.chunk.js.LICENSE.txt": "https://.github.io/csb-kk2ut/static/js/2.f04e2750.chunk.js.LICENSE.txt",
+    "static/media/twilio-mark-red.09b78559.svg": "https://.github.io/csb-kk2ut/static/media/twilio-mark-red.09b78559.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa63259.js",
+    "static/css/2.eb77542a.chunk.css",
+    "static/js/2.f04e2750.chunk.js",
+    "static/css/main.b5a67bd5.chunk.css",
+    "static/js/main.d7f6629e.chunk.js"
+  ]
+}
